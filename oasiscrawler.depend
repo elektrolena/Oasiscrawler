@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1677222359 source:y:\customer\fhtw\lehre\lehre_2023ss\bif_dua\abgaben\eiweck\oasiscrawler_template\main.cpp
+	<iostream>
+	<ctime>
+	"world.h"
+	"character.h"
+
+1676809773 y:\customer\fhtw\lehre\lehre_2023ss\bif_dua\abgaben\eiweck\oasiscrawler_template\world.h
+	"character.h"
+
+1677148042 y:\customer\fhtw\lehre\lehre_2023ss\bif_dua\abgaben\eiweck\oasiscrawler_template\character.h
+
+1677225649 source:y:\customer\fhtw\lehre\lehre_2023ss\bif_dua\abgaben\eiweck\oasiscrawler_template\character.cpp
+	"character.h"
+
+1677225649 source:y:\customer\fhtw\lehre\lehre_2023ss\bif_dua\abgaben\eiweck\oasiscrawler_template\field.cpp
+	"field.h"
+	"character.h"
+	<cstdlib>
+
+1676809911 y:\customer\fhtw\lehre\lehre_2023ss\bif_dua\abgaben\eiweck\oasiscrawler_template\field.h
+
+1677432998 source:c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\character.cpp
+	"character.h"
+
+1677422590 c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\character.h
+
+1677433000 source:c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\field.cpp
+	"field.h"
+	"character.h"
+	<cstdlib>
+
+1677433010 c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\field.h
+
+1677431210 source:c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\main.cpp
+	<iostream>
+	<ctime>
+	"world.h"
+	"character.h"
+
+1677428862 c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\world.h
+	"character.h"
+
+1677431878 source:c:\users\edv\onedrive\fh\2. semester\proz\oasiscrawler_template\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"world.h"
+
+1677751983 source:c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"world.h"
+
+1677428862 c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\world.h
+	"character.h"
+
+1677422590 c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\character.h
+
+1677750419 source:c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\character.cpp
+	"character.h"
+
+1677751946 source:c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\main.cpp
+	<iostream>
+	<ctime>
+	"world.h"
+	"character.h"
+
+1677748466 source:c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\field.cpp
+	"field.h"
+	"character.h"
+	<cstdlib>
+
+1677433020 c:\users\user\onedrive\fh\2. semester\proz\oasiscrawler_template\field.h
+
+1678296544 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\character.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<string>
+	"character.h"
+
+1678299369 c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\character.h
+
+1677748466 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\field.cpp
+	"field.h"
+	"character.h"
+	<cstdlib>
+
+1677930013 c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\field.h
+
+1678355709 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"world.h"
+
+1678300933 c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\world.h
+	"monster.h"
+
+1678354647 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<string>
+	"character.h"
+	"monster.h"
+	"world.h"
+
+1677968674 c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\monster.h
+	"character.h"
+
+1678296613 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2_steigberger\monster.cpp
+	<iostream>
+	<cstdlib>
+	"monster.h"
+
+1679220883 source:c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<string>
+	"character.h"
+	"monster.h"
+	"world.h"
+
+1678299369 c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\character.h
+
+1677968674 c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\monster.h
+	"character.h"
+
+1678300933 c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\world.h
+	"monster.h"
+
+1678296613 source:c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\monster.cpp
+	<iostream>
+	<cstdlib>
+	"monster.h"
+
+1678355709 source:c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"world.h"
+
+1678296544 source:c:\users\edv\onedrive\fh\2. semester\proz\uebung 2_steigberger\character.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<string>
+	"character.h"
+
+1678300144 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\character.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<string>
+	"character.h"
+
+1678302969 c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\character.h
+
+1678300213 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\monster.cpp
+	<iostream>
+	<cstdlib>
+	"monster.h"
+
+1677972274 c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\monster.h
+	"character.h"
+
+1678359309 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"world.h"
+
+1678304533 c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\world.h
+	"monster.h"
+
+1680346225 source:c:\users\user\onedrive\fh\2. semester\proz\uebung 2\uebung 2_steigberger\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<string>
+	"character.h"
+	"monster.h"
+	"world.h"
+
